@@ -1,1 +1,1 @@
-# TechKG
+TechKG is a large scale Chinese knowledge graph that is technology-oriented. It is built automatically from massive technical papers that are published in Chinese academic journals of different research domains. 
